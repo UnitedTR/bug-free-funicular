@@ -974,3 +974,46 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
 [03:54:54] [Server thread/INFO]: [-] TaLka_Habla
 [03:55:30] [Server thread/INFO]: UnitedTR lost connection: Disconnected
 [03:55:30] [Server thread/INFO]: [-] UnitedTR
+[04:57:04] [Server thread/INFO]: Stopping the server
+[04:57:04] [Server thread/INFO]: Stopping server
+[04:57:04] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[04:57:04] [Server thread/INFO]: [TAB] Disabled in 1ms
+[04:57:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.3
+[04:57:04] [Server thread/INFO]: [JoinMessagePlus] Disabling JoinMessagePlus v3.3
+[04:57:04] [Server thread/INFO]: [CleanPing] Disabling CleanPing v1.6.1
+[04:57:04] [Server thread/INFO]: [CleanPing] Clearing instances...
+[04:57:04] [Server thread/INFO]: [CleanPing] Plugin successfully disabled!
+[04:57:04] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[04:57:04] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[04:57:04] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[04:57:04] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[04:57:04] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[04:57:04] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:57:04] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:57:04] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:57:04] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[04:57:04] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:57:04] [Server thread/INFO]: Saving players
+[04:57:04] [Server thread/INFO]: Saving worlds
+[04:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 43 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[04:57:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:57:04] [Server thread/INFO]: [ChunkHolderManager] Saved 714 block chunks, 101 entity chunks, 0 poi chunks in world 'world_nether' in 0.25s
+[04:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:57:05] [Server thread/INFO]: Flushing Chunk IO
+[04:57:05] [Server thread/INFO]: Closing Thread Pool
+[04:57:05] [Server thread/INFO]: Closing Server
