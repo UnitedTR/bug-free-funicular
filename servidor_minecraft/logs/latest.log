@@ -369,3 +369,40 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
 [01:49:49] [User Authenticator #4/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
 [01:49:49] [Server thread/INFO]: [+] TaLka_Habla
 [01:49:49] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:48627] logged in with entity id 5062 at ([world]380.88858302793267, 89.49520087700593, -665.5281099520078)
+[01:57:32] [User Authenticator #5/INFO]: UUID of player SrIvanRus00 is 19e62ca9-000b-3923-8068-041dd63ffd47
+[01:57:32] [Server thread/INFO]: [+] SrIvanRus00
+[01:57:32] [Server thread/INFO]: SrIvanRus00[/127.166.167.149:43707] logged in with entity id 5919 at ([world]385.41332771779577, 86.0, -667.4125643253666)
+[01:58:50] [Async Chat Thread - #22/INFO]: [Not Secure] <SrIvanRus00> me compre un fantoche cudruple
+[01:59:01] [Async Chat Thread - #23/INFO]: [Not Secure] <SrIvanRus00> sigue re lageado?
+[01:59:09] [Async Chat Thread - #22/INFO]: [Not Secure] <SrIvanRus00> XD
+[01:59:14] [Async Chat Thread - #23/INFO]: [Not Secure] <TaLka_Habla> q me pegas la concha de tu madre
+[01:59:27] [Async Chat Thread - #22/INFO]: [Not Secure] <SrIvanRus00> XD
+[01:59:31] [Async Chat Thread - #23/INFO]: [Not Secure] <SrIvanRus00> Dame comida
+[01:59:42] [Async Chat Thread - #22/INFO]: [Not Secure] <SrIvanRus00> esto es un robo
+[01:59:49] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[01:59:49] [Server thread/INFO]: [-] TaLka_Habla
+[01:59:51] [Async Chat Thread - #23/INFO]: [Not Secure] <SrIvanRus00> XD
+[01:59:57] [User Authenticator #6/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:59:57] [Server thread/INFO]: [+] TaLka_Habla
+[01:59:57] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:47595] logged in with entity id 6197 at ([world]398.38907120480036, 86.0, -659.6841626790791)
+[02:00:02] [Async Chat Thread - #22/INFO]: [Not Secure] <SrIvanRus00> LOL
+[02:00:06] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[02:00:06] [Server thread/INFO]: [-] TaLka_Habla
+[02:00:08] [User Authenticator #6/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[02:00:08] [Server thread/INFO]: [+] TaLka_Habla
+[02:00:08] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:45787] logged in with entity id 6218 at ([world]398.38907120480036, 86.0, -659.6841626790791)
+[02:00:28] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[02:00:28] [Server thread/INFO]: [-] TaLka_Habla
+[02:00:30] [User Authenticator #6/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[02:00:30] [Server thread/INFO]: [+] TaLka_Habla
+[02:00:30] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:58467] logged in with entity id 6254 at ([world]398.38907120480036, 86.0, -659.6841626790791)
+[02:00:39] [Server thread/INFO]: SrIvanRus00 lost connection: Disconnected
+[02:00:39] [Server thread/INFO]: [-] SrIvanRus00
+[02:01:15] [Server thread/WARN]: TaLka_Habla was kicked due to keepalive timeout!
+[02:01:15] [Server thread/INFO]: TaLka_Habla lost connection: Timed out
+[02:01:15] [Server thread/INFO]: [-] TaLka_Habla
+[02:01:39] [User Authenticator #7/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[02:01:39] [Server thread/INFO]: [+] TaLka_Habla
+[02:01:39] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:40017] logged in with entity id 6356 at ([world]394.964663309764, 86.0, -637.1636798293156)
+[02:01:48] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[02:01:48] [Server thread/INFO]: [-] TaLka_Habla
