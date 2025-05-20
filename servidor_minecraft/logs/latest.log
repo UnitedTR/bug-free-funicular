@@ -455,3 +455,8 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
 [02:10:09] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:60289] logged in with entity id 7084 at ([world]380.36316379687594, 89.0, -665.6269506021154)
 [02:10:16] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
 [02:10:16] [Server thread/INFO]: [-] TaLka_Habla
+[02:16:13] [User Authenticator #13/INFO]: UUID of player SrIvanRus00 is 19e62ca9-000b-3923-8068-041dd63ffd47
+[02:16:13] [Server thread/INFO]: [+] SrIvanRus00
+[02:16:13] [Server thread/INFO]: SrIvanRus00[/127.166.167.149:34457] logged in with entity id 7610 at ([world]382.5933506313653, 86.0, -661.923136120316)
+[02:16:29] [Server thread/INFO]: SrIvanRus00 lost connection: Disconnected
+[02:16:29] [Server thread/INFO]: [-] SrIvanRus00
