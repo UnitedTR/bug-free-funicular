@@ -18,7 +18,8 @@
       "minecraft:jungle": "2025-05-19 17:23:54 +0000",
       "minecraft:ocean": "2025-05-19 17:21:34 +0000",
       "minecraft:windswept_savanna": "2025-05-19 18:13:27 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-19 18:08:36 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-05-19 18:08:36 +0000",
+      "minecraft:plains": "2025-05-20 01:19:36 +0000"
     },
     "done": false
   },
@@ -424,8 +425,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-20 01:20:54 +0000",
       "cooked_mutton": "2025-05-19 18:29:13 +0000",
       "beef": "2025-05-19 18:22:45 +0000",
+      "porkchop": "2025-05-20 01:19:48 +0000",
       "apple": "2025-05-19 17:36:35 +0000",
       "mutton": "2025-05-19 18:20:43 +0000",
       "rotten_flesh": "2025-05-19 17:27:38 +0000",
@@ -1461,6 +1464,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 01:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-20 01:15:55 +0000"
@@ -1509,21 +1524,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-05-20 01:15:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-20 01:15:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-20 01:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-20 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-20 01:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-20 01:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-20 01:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-20 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-20 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-20 01:27:10 +0000"
     },
     "done": true
   },
