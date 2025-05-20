@@ -1848,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-20 03:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 03:16:10 +0000"
@@ -1863,6 +1869,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-20 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-20 03:32:06 +0000"
     },
     "done": true
   },
