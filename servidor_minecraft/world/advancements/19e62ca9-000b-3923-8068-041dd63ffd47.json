@@ -427,6 +427,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-20 01:20:54 +0000",
       "cooked_mutton": "2025-05-19 18:29:13 +0000",
+      "cooked_beef": "2025-05-20 02:23:13 +0000",
       "beef": "2025-05-19 18:22:45 +0000",
       "porkchop": "2025-05-20 01:19:48 +0000",
       "apple": "2025-05-19 17:36:35 +0000",
@@ -1605,6 +1606,57 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-20 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-20 02:23:55 +0000",
+      "minecraft:soul_sand_valley": "2025-05-20 02:23:23 +0000",
+      "minecraft:basalt_deltas": "2025-05-20 02:27:09 +0000",
+      "minecraft:warped_forest": "2025-05-20 02:28:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-20 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-20 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-20 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-20 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-20 02:24:38 +0000"
     },
     "done": true
   },

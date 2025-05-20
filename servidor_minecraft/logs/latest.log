@@ -460,3 +460,47 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
 [02:16:13] [Server thread/INFO]: SrIvanRus00[/127.166.167.149:34457] logged in with entity id 7610 at ([world]382.5933506313653, 86.0, -661.923136120316)
 [02:16:29] [Server thread/INFO]: SrIvanRus00 lost connection: Disconnected
 [02:16:29] [Server thread/INFO]: [-] SrIvanRus00
+[02:22:52] [User Authenticator #14/INFO]: UUID of player SrIvanRus00 is 19e62ca9-000b-3923-8068-041dd63ffd47
+[02:22:52] [Server thread/INFO]: [+] SrIvanRus00
+[02:22:52] [Server thread/INFO]: SrIvanRus00[/127.166.167.149:55415] logged in with entity id 8258 at ([world]386.21077816874373, 89.0, -662.5917052891375)
+[02:23:02] [Async Chat Thread - #24/INFO]: [Not Secure] <SrIvanRus00> dame comida
+[02:23:21] [Server thread/INFO]: SrIvanRus00 has made the advancement [We Need to Go Deeper]
+[02:23:29] [Async Chat Thread - #25/INFO]: [Not Secure] <UnitedTR> vamos al nether
+[02:23:41] [Server thread/INFO]: UnitedTR has made the advancement [We Need to Go Deeper]
+[02:23:44] [Async Chat Thread - #24/INFO]: [Not Secure] <SrIvanRus00> xd
+[02:24:25] [Async Chat Thread - #25/INFO]: [Not Secure] <UnitedTR> le tomaste las coords
+[02:24:28] [Async Chat Thread - #24/INFO]: [Not Secure] <SrIvanRus00> si
+[02:24:36] [Async Chat Thread - #25/INFO]: [Not Secure] <UnitedTR> 21 -110
+[02:24:44] [Async Chat Thread - #24/INFO]: [Not Secure] <UnitedTR> 21 69 -110
+[02:25:07] [Server thread/INFO]: SrIvanRus00 fell from a high place
+[02:25:09] [Async Chat Thread - #24/INFO]: [Not Secure] <SrIvanRus00> xd
+[02:25:10] [Async Chat Thread - #24/INFO]: [Not Secure] <UnitedTR> noooooooo
+[02:27:01] [Async Chat Thread - #26/INFO]: [Not Secure] <UnitedTR> mierda
+[02:27:09] [Async Chat Thread - #27/INFO]: [Not Secure] <UnitedTR> recuperaste tus cosas?
+[02:27:11] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> i
+[02:27:12] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> si
+[02:27:15] [Async Chat Thread - #26/INFO]: [Not Secure] <UnitedTR> gof
+[02:27:16] [Async Chat Thread - #27/INFO]: [Not Secure] <UnitedTR> god
+[02:28:16] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> fortaleza
+[02:28:20] [Async Chat Thread - #27/INFO]: [Not Secure] <UnitedTR> coords
+[02:28:21] [Async Chat Thread - #27/INFO]: [Not Secure] <UnitedTR> ya
+[02:28:32] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> 84 -242
+[02:28:43] [Async Chat Thread - #26/INFO]: [Not Secure] <UnitedTR> altura?
+[02:28:46] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> necesito comida
+[02:28:47] [Async Chat Thread - #26/INFO]: [Not Secure] <SrIvanRus00> 45
+[02:28:51] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> poero esta más alto la fort
+[02:29:20] [User Authenticator #15/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[02:29:20] [Server thread/INFO]: [+] TaLka_Habla
+[02:29:20] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:57717] logged in with entity id 9449 at ([world]380.36316379687594, 89.0, -665.6269506021154)
+[02:29:25] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> 113 / 45 / -277
+[02:29:27] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> te espero
+[02:29:38] [Async Chat Thread - #27/INFO]: [Not Secure] <SrIvanRus00> me desconecto por el hambre xd
+[02:29:40] [Server thread/INFO]: SrIvanRus00 lost connection: Disconnected
+[02:29:40] [Server thread/INFO]: [-] SrIvanRus00
+[02:29:51] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[02:29:51] [Server thread/INFO]: [-] TaLka_Habla
+[02:30:16] [User Authenticator #15/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[02:30:16] [Server thread/INFO]: [+] TaLka_Habla
+[02:30:16] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:49503] logged in with entity id 9804 at ([world]396.06382675845236, 86.875, -661.6343120270952)
+[02:30:38] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[02:30:38] [Server thread/INFO]: [-] TaLka_Habla
