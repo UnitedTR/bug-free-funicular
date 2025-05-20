@@ -357,3 +357,15 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
 [01:40:50] [Server thread/INFO]: SrIvanRus00 lost connection: Disconnected
 [01:40:50] [Server thread/INFO]: [-] SrIvanRus00
 [01:41:05] [Async Chat Thread - #20/INFO]: [Not Secure] <UnitedTR> a
+[01:48:20] [Server thread/WARN]: TaLka_Habla was kicked due to keepalive timeout!
+[01:48:20] [Server thread/INFO]: TaLka_Habla lost connection: Timed out
+[01:48:20] [Server thread/INFO]: [-] TaLka_Habla
+[01:48:56] [User Authenticator #4/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:48:56] [Server thread/INFO]: [+] TaLka_Habla
+[01:48:56] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:38423] logged in with entity id 4985 at ([world]385.36393725715794, 90.08639997415543, -667.5958976241213)
+[01:49:41] [Server thread/WARN]: TaLka_Habla was kicked due to keepalive timeout!
+[01:49:41] [Server thread/INFO]: TaLka_Habla lost connection: Timed out
+[01:49:41] [Server thread/INFO]: [-] TaLka_Habla
+[01:49:49] [User Authenticator #4/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:49:49] [Server thread/INFO]: [+] TaLka_Habla
+[01:49:49] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:48627] logged in with entity id 5062 at ([world]380.88858302793267, 89.49520087700593, -665.5281099520078)
