@@ -1,0 +1,4 @@
+name: vip
+prefixes:
+- '&e&lVIP &7':
+    priority: 1

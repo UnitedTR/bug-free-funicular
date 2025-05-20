@@ -1,0 +1,4 @@
+name: default
+prefixes:
+- '&7&lUSER &7':
+    priority: 0

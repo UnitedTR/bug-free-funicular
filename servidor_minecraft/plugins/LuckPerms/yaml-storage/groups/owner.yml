@@ -1,0 +1,6 @@
+name: owner
+prefixes:
+- '&4&lOWNER':
+    priority: 10
+    context:
+      server: '&7'

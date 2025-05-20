@@ -1,0 +1,5 @@
+# LuckPerms UUID lookup cache
+0de37580-e62a-35b9-92e4-0dc8a1fee0b3:UnitedTRoficial
+1183be58-3337-39df-8374-a9fedb71bf1e:UnitedTR
+27099d56-b6fc-3515-9701-4a5da51a4ce6:Shikanoko
+19e62ca9-000b-3923-8068-041dd63ffd47:SrIvanRus00

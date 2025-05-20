@@ -1,0 +1,13 @@
+Banned-Commands:
+  - pl
+  - plugins
+  - gmc
+  - gamemode
+  - op
+  - list
+  - ver
+  - version
+  - restart
+  - stop
+  - ban
+  - kick

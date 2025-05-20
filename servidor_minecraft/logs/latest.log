@@ -1,0 +1,192 @@
+[01:11:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:11:32] [ServerMain/INFO]: Loaded 7 recipes
+[01:11:33] [Server thread/INFO]: Starting minecraft server version 1.20
+[01:11:33] [Server thread/INFO]: Loading properties
+[01:11:33] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[01:11:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:11:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:11:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[01:11:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:11:33] [Server thread/INFO]: Default game type: SURVIVAL
+[01:11:33] [Server thread/INFO]: Generating keypair
+[01:11:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:11:34] [Server thread/INFO]: Using epoll channel type
+[01:11:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:11:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:11:35] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ChatManager-1.21-5.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20.6
+	at org.bukkit.craftbukkit.v1_20_R1.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:380) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:119) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:430) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1101) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01:11:35] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[01:11:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[01:11:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:11:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:11:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:11:36] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:11:36] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[01:11:37] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[01:11:37] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[01:11:37] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[01:11:37] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[01:11:37] [Server thread/INFO]: [CleanPing] Loading server plugin CleanPing v1.6.1
+[01:11:37] [Server thread/INFO]: [JoinMessagePlus] Loading server plugin JoinMessagePlus v3.3
+[01:11:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
+[01:11:37] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[01:11:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:11:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[01:11:38] [Server thread/INFO]:         __    
+[01:11:38] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[01:11:38] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:11:38] [Server thread/INFO]: 
+[01:11:38] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:11:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [YAML]
+[01:11:38] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:11:39] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:11:39] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1815ms)
+[01:11:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[01:11:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[01:11:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:11:39] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[01:11:39] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:11:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
+[01:11:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.0.
+[01:11:40] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:11:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.3]
+[01:11:40] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[01:11:40] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[01:11:40] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[01:11:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:11:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:11:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:11:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:11:40] [Server thread/INFO]: Preparing level "world"
+[01:11:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:11:42] [Server thread/INFO]: Time elapsed: 599 ms
+[01:11:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:11:42] [Server thread/INFO]: Time elapsed: 77 ms
+[01:11:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:11:42] [Server thread/INFO]: Time elapsed: 78 ms
+[01:11:42] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[01:11:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[01:11:42] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.15).
+[01:11:42] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[01:11:43] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[01:11:43] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[01:11:43] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[01:11:43] [Server thread/INFO]: [CleanPing] Enabling CleanPing v1.6.1
+[01:11:43] [Server thread/INFO]: [CleanPing] 
+   ___ _                 ___ _           
+  / __| |___ __ _ _ _   | _ (_)_ _  __ _ 
+ | (__| / -_) _` | ' \  |  _/ | ' \/ _` |
+  \___|_\___\__,_|_||_| |_| |_|_||_\__, |
+                                   |___/ 
+
+[01:11:43] [Server thread/INFO]: [CleanPing] Server version: 1.20-R0.1-SNAPSHOT
+[01:11:43] [Server thread/INFO]: [CleanPing] Loading configuration...
+[01:11:43] [Server thread/INFO]: [CleanPing] Loading commands...
+[01:11:43] [Server thread/INFO]: [CleanPing] Metrics loaded successfully!
+[01:11:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cleanping [1.0]
+[01:11:43] [Server thread/INFO]: [CleanPing] PlaceholderAPI found, placeholders enabled.
+[01:11:43] [Server thread/INFO]: [CleanPing] Plugin successfully loaded!
+[01:11:43] [Server thread/INFO]: [JoinMessagePlus] Enabling JoinMessagePlus v3.3
+[01:11:43] [Server thread/INFO]: [JoinMessagePlus] [#]==========< JoinMessagePlus >==========[#]
+[01:11:43] [Server thread/INFO]: [JoinMessagePlus] Version: 3.3
+[01:11:43] [Server thread/INFO]: [JoinMessagePlus] Web: https://dev.bukkit.org/bukkit-plugins/join-message-plus/
+[01:11:44] [Server thread/INFO]: [JoinMessagePlus] Mode: BungeeCord + Standalone
+[01:11:44] [Server thread/INFO]: [JoinMessagePlus] Plugin by AndyCraftz
+[01:11:44] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[01:11:44] [Server thread/INFO]: [TAB] Loaded NMS hook in 139ms
+[01:11:44] [Server thread/INFO]: [TAB] Enabled in 512ms
+[01:11:45] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[01:11:45] [Server thread/INFO]: Running delayed init tasks
+[01:11:45] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:11:45] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[01:11:45] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] Checking for Updates ... 
+[01:11:45] [Server thread/INFO]: Done (11.678s)! For help, type "help"
+[01:11:45] [Server thread/INFO]: Timings Reset
+[01:11:45] [Craft Scheduler Thread - 3 - Vault/WARN]: [Vault] No files found, or Feed URL is bad.
+[01:11:45] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] No new version available
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     Version: 15.6.3
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:11:45] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:12:00] [User Authenticator #0/INFO]: UUID of player SrIvanRus00 is 19e62ca9-000b-3923-8068-041dd63ffd47
+[01:12:03] [User Authenticator #0/INFO]: UUID of player UnitedTR is 1183be58-3337-39df-8374-a9fedb71bf1e
+[01:12:04] [Server thread/INFO]: [+] SrIvanRus00
+[01:12:05] [Server thread/INFO]: SrIvanRus00[/127.166.167.149:42957] logged in with entity id 89 at ([world]498.96444035586524, 86.0, -696.6999999880791)
+[01:12:05] [Server thread/INFO]: [+] UnitedTR
+[01:12:05] [Server thread/INFO]: UnitedTR[/127.70.77.77:37947] logged in with entity id 90 at ([world]393.0929493545469, 86.0, -662.0162474484858)
+[01:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5118ms or 102 ticks behind
+[01:12:11] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> hostia puta
+[01:12:24] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> ala mierda
+[01:12:37] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> no habia pasado un segundo que prendi el sv y ya estas dentro
+[01:12:38] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> donde carajos estas?
+[01:12:41] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> XD
+[01:12:57] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> por donde pasaste no viste una tipo campaña?
+[01:13:22] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> fa amigo
+[01:13:27] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> ??
+[01:13:29] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> ta lindo tu ping
+[01:13:32] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> aca arriba
+[01:13:33] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> mira
+[01:13:43] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> SI TENGO
+[01:13:45] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> A
+[01:14:03] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> pero no tenes un choto
+[01:14:04] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> mi humilde casa
+[01:14:04] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> maldito manco
+[01:14:30] [Server thread/INFO]: UnitedTR has made the advancement [Cover Me with Diamonds]
+[01:14:38] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> ahi tenes lo otro
+[01:14:55] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> con esto me voy a domar al dragon
+[01:15:28] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> vamos al nether para buscar varas de blases
+[01:15:37] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> por eso te dije que piques obsidiana xd
+[01:15:52] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> dame madera
+[01:15:54] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> plox
+[01:16:11] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> ahi te di un escudo
+[01:16:40] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> bueno
+[01:16:44] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> nos refuimos
+[01:16:48] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> vamos a buscar obsidida
+[01:16:58] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> que paja
+[01:17:20] [Async Chat Thread - #0/INFO]: [Not Secure] <UnitedTR> vamo o q?
+[01:17:25] [Async Chat Thread - #1/INFO]: [Not Secure] <SrIvanRus00> primero hay que buscar agua
+[01:17:25] [Async Chat Thread - #0/INFO]: [Not Secure] <SrIvanRus00> xd
+[01:17:32] [Async Chat Thread - #1/INFO]: [Not Secure] <UnitedTR> agua hay de sobra pa
+[01:19:00] [User Authenticator #1/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:19:00] [Server thread/INFO]: [+] TaLka_Habla
+[01:19:00] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:51715] logged in with entity id 1076 at ([world]398.2056451584756, 86.0, -657.2127113521386)
+[01:19:05] [Async Chat Thread - #2/INFO]: [Not Secure] <UnitedTR> w
+[01:19:07] [Async Chat Thread - #3/INFO]: [Not Secure] <UnitedTR> e
+[01:19:25] [Async Chat Thread - #2/INFO]: [Not Secure] <TaLka_Habla> sexo
+[01:19:45] [Server thread/WARN]: TaLka_Habla was kicked due to keepalive timeout!
+[01:19:45] [Server thread/INFO]: TaLka_Habla lost connection: Timed out
+[01:19:45] [Server thread/INFO]: [-] TaLka_Habla
+[01:19:48] [Async Chat Thread - #3/INFO]: [Not Secure] <UnitedTR> djadjwa
+[01:19:51] [Async Chat Thread - #2/INFO]: [Not Secure] <UnitedTR> se le cayo
+[01:19:53] [User Authenticator #1/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:19:53] [Server thread/INFO]: [+] TaLka_Habla
+[01:19:53] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:46419] logged in with entity id 1213 at ([world]398.56373573284725, 86.0, -657.4511860839231)
+[01:20:36] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[01:20:36] [Server thread/INFO]: [-] TaLka_Habla
+[01:20:41] [User Authenticator #1/INFO]: UUID of player TaLka_Habla is 1177ec5d-4041-35c7-94a9-72d01b8df1b8
+[01:20:41] [Server thread/INFO]: [+] TaLka_Habla
+[01:20:41] [Server thread/INFO]: TaLka_Habla[/127.187.138.71:49143] logged in with entity id 1365 at ([world]398.10850125022233, 87.0, -661.376617754521)
+[01:21:11] [Server thread/INFO]: TaLka_Habla lost connection: Disconnected
+[01:21:11] [Server thread/INFO]: [-] TaLka_Habla
